@@ -17,34 +17,39 @@
     <SUITE FILE_PATH="coverage/$private_method.coverage" NAME="private_method Coverage Results" MODIFIED="1578495322554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch4深入类和对象" />
     <SUITE FILE_PATH="coverage/$class_var.coverage" NAME="class_var Coverage Results" MODIFIED="1578487873999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch4深入类和对象" />
     <SUITE FILE_PATH="coverage/$self_ex.coverage" NAME="self_ex Coverage Results" MODIFIED="1578577134814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch4深入类和对象" />
+    <SUITE FILE_PATH="coverage/$slice_obj.coverage" NAME="slice_obj Coverage Results" MODIFIED="1578729311523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch5自定义序列类" />
+    <SUITE FILE_PATH="coverage/$slice_test.coverage" NAME="slice_test Coverage Results" MODIFIED="1578719847783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch5自定义序列类" />
+    <SUITE FILE_PATH="coverage/$array_test.coverage" NAME="array_test Coverage Results" MODIFIED="1578761050377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch5自定义序列类" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="905814214">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1060" />
+          <entry key="py" value="1766" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1060" />
+          <entry key="Python" value="1766" />
         </counts>
       </usages-collector>
     </session>
@@ -88,7 +93,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch4深入类和对象/private_method.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
+            <state relative-caret-position="450">
               <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
               <folding>
                 <marker date="1578495325520" expanded="true" signature="43:48" ph="..." />
@@ -100,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch4深入类和对象/self_ex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="510">
               <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
               <folding>
                 <marker date="1578577334241" expanded="true" signature="31:36" ph="..." />
@@ -113,7 +118,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch4深入类和对象/super_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
+            <state relative-caret-position="750">
               <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
               <folding>
                 <marker date="1578578722117" expanded="true" signature="8:13" ph="..." />
@@ -122,15 +127,45 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch4深入类和对象/with_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="273">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
-                <marker date="1578584216460" expanded="true" signature="198:508" ph="..." />
                 <marker date="1578584216460" expanded="true" signature="261:270" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch5自定义序列类/slice_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch5自定义序列类/slice_obj.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding>
+                <marker date="1578760596831" expanded="true" signature="54:59" ph="..." />
+                <marker date="1578760596831" expanded="true" signature="248:300" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch5自定义序列类/array_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="74" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -156,6 +191,9 @@
         <option value="$PROJECT_DIR$/ch4深入类和对象/self_ex.py" />
         <option value="$PROJECT_DIR$/ch4深入类和对象/super_test.py" />
         <option value="$PROJECT_DIR$/ch4深入类和对象/with_test.py" />
+        <option value="$PROJECT_DIR$/ch5自定义序列类/slice_test.py" />
+        <option value="$PROJECT_DIR$/ch5自定义序列类/slice_obj.py" />
+        <option value="$PROJECT_DIR$/ch5自定义序列类/array_test.py" />
       </list>
     </option>
   </component>
@@ -203,7 +241,7 @@
             <path>
               <item name="高级编程" type="b2602c69:ProjectViewProjectNode" />
               <item name="高级编程" type="462c0819:PsiDirectoryNode" />
-              <item name="ch4深入类和对象" type="462c0819:PsiDirectoryNode" />
+              <item name="ch5自定义序列类" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -231,8 +269,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.with_test">
-    <configuration name="attr_mro" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.array_test">
+    <configuration name="array_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="高级编程" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,12 +278,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch4深入类和对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch5自定义序列类" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch4深入类和对象/attr_mro.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch5自定义序列类/array_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +292,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="private_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="slice_obj" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="高级编程" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,12 +300,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch4深入类和对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch5自定义序列类" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch4深入类和对象/private_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch5自定义序列类/slice_obj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,7 +314,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="self_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="slice_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="高级编程" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,12 +322,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch4深入类和对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch5自定义序列类" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch4深入类和对象/self_ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch5自定义序列类/slice_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,19 +381,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.attr_mro" />
-      <item itemvalue="Python.private_method" />
-      <item itemvalue="Python.self_ex" />
       <item itemvalue="Python.super_test" />
       <item itemvalue="Python.with_test" />
+      <item itemvalue="Python.slice_test" />
+      <item itemvalue="Python.slice_obj" />
+      <item itemvalue="Python.array_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.array_test" />
+        <item itemvalue="Python.slice_obj" />
+        <item itemvalue="Python.slice_test" />
         <item itemvalue="Python.with_test" />
         <item itemvalue="Python.super_test" />
-        <item itemvalue="Python.self_ex" />
-        <item itemvalue="Python.private_method" />
-        <item itemvalue="Python.attr_mro" />
       </list>
     </recent_temporary>
   </component>
@@ -437,7 +475,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch4深入类和对象/private_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
+        <state relative-caret-position="450">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding>
             <marker date="1578495325520" expanded="true" signature="43:48" ph="..." />
@@ -447,7 +485,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch4深入类和对象/self_ex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="510">
           <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
           <folding>
             <marker date="1578577334241" expanded="true" signature="31:36" ph="..." />
@@ -458,7 +496,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch4深入类和对象/super_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
+        <state relative-caret-position="750">
           <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
           <folding>
             <marker date="1578578722117" expanded="true" signature="8:13" ph="..." />
@@ -468,12 +506,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch4深入类和对象/with_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="273">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
-            <marker date="1578584216460" expanded="true" signature="198:508" ph="..." />
             <marker date="1578584216460" expanded="true" signature="261:270" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5自定义序列类/slice_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5自定义序列类/slice_obj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <marker date="1578760596831" expanded="true" signature="54:59" ph="..." />
+            <marker date="1578760596831" expanded="true" signature="248:300" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5自定义序列类/array_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="74" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
         </state>
       </provider>
     </entry>
