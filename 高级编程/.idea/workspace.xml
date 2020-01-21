@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="266b258c-018d-4edb-9998-0cb4236d1a24" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8元类编程/my_orm.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch8元类编程/my_orm.py" afterDir="false" />
-    </list>
+    <list default="true" id="266b258c-018d-4edb-9998-0cb4236d1a24" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +12,7 @@
     <SUITE FILE_PATH="coverage/$attr_mro.coverage" NAME="attr_mro Coverage Results" MODIFIED="1578490912906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch4深入类和对象" />
     <SUITE FILE_PATH="coverage/$getattr.coverage" NAME="getattr Coverage Results" MODIFIED="1579310215794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$my_orm.coverage" NAME="my_orm Coverage Results" MODIFIED="1579356049555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch8元类编程" />
+    <SUITE FILE_PATH="coverage/$python_thread.coverage" NAME="python_thread Coverage Results" MODIFIED="1579618596149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch11线程池编程" />
     <SUITE FILE_PATH="coverage/$attr_desc.coverage" NAME="attr_desc Coverage Results" MODIFIED="1579354311593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch8元类编程" />
     <SUITE FILE_PATH="coverage/$self_ex.coverage" NAME="self_ex Coverage Results" MODIFIED="1578577134814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch4深入类和对象" />
     <SUITE FILE_PATH="coverage/$new_init.coverage" NAME="new&amp;init Coverage Results" MODIFIED="1579335342366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch8元类编程" />
@@ -40,31 +38,31 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="32" />
+          <entry key="py" value="39" />
           <entry key="pyi" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="32" />
+          <entry key="Python" value="39" />
           <entry key="PythonStub" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5622" />
+          <entry key="py" value="5990" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5622" />
+          <entry key="Python" value="5990" />
         </counts>
       </usages-collector>
     </session>
@@ -72,45 +70,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch8元类编程/attr_desc.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-              <folding>
-                <marker date="1579350298138" expanded="true" signature="44:49" ph="..." />
-                <marker date="1579350298138" expanded="true" signature="344:411" ph="..." />
-                <marker date="1579350298138" expanded="true" signature="422:427" ph="..." />
-                <marker date="1579350298138" expanded="true" signature="511:520" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch8元类编程/new&amp;init.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-              <folding>
-                <marker date="1579337409804" expanded="true" signature="11:16" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch8元类编程/meta_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch8元类编程/my_orm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
+            <state relative-caret-position="3360">
               <caret line="112" selection-start-line="112" selection-end-line="112" />
             </state>
           </provider>
@@ -128,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Anaconda3/Lib/collections/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="30780">
               <caret line="1027" column="28" selection-start-line="1027" selection-start-column="28" selection-end-line="1027" selection-end-column="28" />
             </state>
           </provider>
@@ -137,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Anaconda3/Lib/_collections_abc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="886" column="18" lean-forward="true" selection-start-line="878" selection-start-column="4" selection-end-line="886" selection-end-column="18" />
+            <state relative-caret-position="26550">
+              <caret line="886" column="18" selection-start-line="878" selection-start-column="4" selection-end-line="886" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -146,32 +108,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch9生成器/gen_learn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <marker date="1579529716592" expanded="true" signature="89:230" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch9生成器/read_file.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-              <folding>
-                <marker date="1579534180798" expanded="true" signature="70:75" ph="..." />
-              </folding>
+            <state relative-caret-position="480">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1122196092/builtins.py">
+        <entry file="file://$PROJECT_DIR$/ch9生成器/read_file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23340">
-              <caret line="778" column="8" selection-start-line="778" selection-start-column="8" selection-end-line="778" selection-end-column="8" />
+            <state relative-caret-position="510">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch11线程池编程/GIL.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch11线程池编程/python_thread.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="6" selection-end-line="52" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <marker date="1579621367887" expanded="true" signature="171:176" ph="..." />
+                <marker date="1579621367887" expanded="true" signature="612:673" ph="..." />
+                <marker date="1579621367887" expanded="true" signature="911:917" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -222,6 +193,8 @@
         <option value="$USER_HOME$/Desktop/Linked_list.py" />
         <option value="$PROJECT_DIR$/ch9生成器/gen_learn.py" />
         <option value="$PROJECT_DIR$/ch9生成器/read_file.py" />
+        <option value="$PROJECT_DIR$/ch11线程池编程/GIL.py" />
+        <option value="$PROJECT_DIR$/ch11线程池编程/python_thread.py" />
       </list>
     </option>
   </component>
@@ -276,6 +249,11 @@
               <item name="高级编程" type="462c0819:PsiDirectoryNode" />
               <item name="ch9生成器" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="高级编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="高级编程" type="462c0819:PsiDirectoryNode" />
+              <item name="ch11线程池编程" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -302,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.my_orm">
+  <component name="RunManager" selected="Python.python_thread">
     <configuration name="attr_desc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="高级编程" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,28 +295,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch8元类编程/attr_desc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="getattr" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="高级编程" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getattr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -413,20 +369,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="python_thread" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="高级编程" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch11线程池编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11线程池编程/python_thread.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.getattr" />
       <item itemvalue="Python.attr_desc" />
       <item itemvalue="Python.new&amp;init" />
       <item itemvalue="Python.meta_test" />
       <item itemvalue="Python.my_orm" />
+      <item itemvalue="Python.python_thread" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.python_thread" />
         <item itemvalue="Python.my_orm" />
         <item itemvalue="Python.attr_desc" />
         <item itemvalue="Python.meta_test" />
         <item itemvalue="Python.new&amp;init" />
-        <item itemvalue="Python.getattr" />
       </list>
     </recent_temporary>
   </component>
@@ -447,13 +425,13 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08847185" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15549597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3744681" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3744681" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -508,6 +486,11 @@
           <url>file://$PROJECT_DIR$/ch8元类编程/my_orm.py</url>
           <line>95</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ch11线程池编程/python_thread.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -626,6 +609,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ch8元类编程/getattr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/abc.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="23" column="4" selection-start-line="23" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ch8元类编程/attr_desc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -656,36 +656,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1122196092/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23340">
-          <caret line="778" column="8" selection-start-line="778" selection-start-column="8" selection-end-line="778" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch8元类编程/getattr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/abc.pyi">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/typing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="23" column="4" selection-start-line="23" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch8元类编程/my_orm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
+        <state relative-caret-position="3360">
           <caret line="112" selection-start-line="112" selection-end-line="112" />
         </state>
       </provider>
@@ -699,34 +672,75 @@
     </entry>
     <entry file="file://$USER_HOME$/Anaconda3/Lib/collections/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="30780">
           <caret line="1027" column="28" selection-start-line="1027" selection-start-column="28" selection-end-line="1027" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Anaconda3/Lib/_collections_abc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="886" column="18" lean-forward="true" selection-start-line="878" selection-start-column="4" selection-end-line="886" selection-end-column="18" />
+        <state relative-caret-position="26550">
+          <caret line="886" column="18" selection-start-line="878" selection-start-column="4" selection-end-line="886" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch9生成器/gen_learn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <marker date="1579529716592" expanded="true" signature="89:230" ph="..." />
-          </folding>
+        <state relative-caret-position="480">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1122196092/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23340">
+          <caret line="778" column="8" selection-start-line="778" selection-start-column="8" selection-end-line="778" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch9生成器/read_file.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch11线程池编程/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Python高级编程和异步IO并发编程实战培训视频教程 Python高级应用视频课程/Mtianyan-AdvancePython/chapter11/python_gil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-617" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-318">
+          <caret line="737" column="6" selection-start-line="737" selection-start-column="6" selection-end-line="737" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python高级编程和异步IO并发编程实战培训视频教程 Python高级应用视频课程/Mtianyan-AdvancePython/chapter11/python_thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch11线程池编程/GIL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch11线程池编程/python_thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="6" selection-end-line="52" selection-end-column="29" />
           <folding>
-            <marker date="1579534180798" expanded="true" signature="70:75" ph="..." />
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1579621367887" expanded="true" signature="171:176" ph="..." />
+            <marker date="1579621367887" expanded="true" signature="612:673" ph="..." />
+            <marker date="1579621367887" expanded="true" signature="911:917" ph="..." />
           </folding>
         </state>
       </provider>
