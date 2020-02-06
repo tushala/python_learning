@@ -26,7 +26,7 @@ if __name__ == '__main__':
     #     #
     #     # print(result.get())  # 3
 
-    # imap
+    # imap返回结果顺序和输入相同，imap_unordered则为不保证顺序
     # for result in pool.imap(get_html, [1, 5, 3]):
     #     print(f"{result} sleep success")
 
